@@ -5,5 +5,9 @@ h4,
 h3 {
   color: black.;
   text-align: center;
-  font-family: cursive;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+h2 {
+  color: #2F4F4F;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
