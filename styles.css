@@ -1,17 +1,48 @@
 html {
-background-color:  #C3F7F7;
+background-color:  #99ccff;
 }
-h4,
-h3 {
-  color: black.;
+h4 {
+  color: #006666;
   text-align: center;
-  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-family: 'Shadows Into Light', cursive, sans-serif;
+  font-size: 35px;
+}
+h3 {
+  color: #b30086;
+  text-align: center;
+  font-family: "Comic Sans MS", cursive
+  , sans-serif;
+  font-size: 22px;
 }
 h2 {
-  color: #2F4F4F;
-  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  color: #730099;
+  font-family: 'Questrial' , cursive sans-serif;
+  font-size: 21px;
 }
 p {
-  color:
-  font-family:
+  color: #330080;
+  font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size: 16px;
+}
+.opening {
+  color: #000066;
+  text-align: center;
+  font-family: "Comic Sans MS", fantasy, sans-serif;
+  font-size: 18px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.copy {
+  color: #8533ff;
+  font-family: 'Questrial', sans-serif;
+  font-size: 18px;
+}
+footer {
+  text-align: right;
+  color: #b30077;
+
 }
