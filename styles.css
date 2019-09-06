@@ -7,6 +7,7 @@ h4 {
   font-family: 'Shadows Into Light', cursive, sans-serif;
   font-size: 37px;
   text-shadow: 3px 2px #9BA7D6;
+  margin-bottom: 15px;
 }
 h3 {
   color: #455EBF;
@@ -14,6 +15,7 @@ h3 {
   font-family: "Comic Sans MS", cursive
   , sans-serif;
   font-size: 22.5px;
+  margin-top: 15px;
 }
 h2 {
   color: #A8183F;
@@ -42,6 +44,9 @@ header {
   text-align: center;
   font-family: "Comic Sans MS", fantasy, sans-serif;
   font-size: 18px;
+  margin: 75px;
+  margin-bottom: 25px;
+  margin-top: 18px;
 }
 .center {
   display: block;
