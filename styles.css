@@ -1,5 +1,5 @@
 html {
-background-color:  #99ccff;
+background-color:  #C4E7F0;
 }
 h4 {
   color: #006666;
@@ -30,11 +30,11 @@ p {
 }
 footer {
   text-align: right;
-  color: #b30077;
+  color: #330080;
 }
 header {
   text-align: left;
-  color: #b30077;
+  color: #330080;
   font-size: 11px;
 }
 .opening {
@@ -56,13 +56,13 @@ header {
 }
 #header {
   background-color: #455EBF;
-  color: #99ccff;
+  color: #C4E7F0;
   padding: 17px;
   text-align: center;
 }
 #foot {
   background-color: #455EBF;
-  color: #99ccff;
+  color: #C4E7F0;
   padding: 15px;
   text-align: right;
 }
